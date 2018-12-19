@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="search.do" method="post">
-请输入查询的手机号码:<input type="text" name="number">
+你好，请输入查询的手机号码:<input type="text" name="number">
 </br>
 <input type="submit" value="查询">
 
